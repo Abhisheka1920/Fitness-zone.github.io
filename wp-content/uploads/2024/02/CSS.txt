@@ -1,0 +1,2 @@
+<!---- Top Bar ----->
+<i class="icon-phone" style="margin: 0 7px 0 0; color: #ec3642;"></i> 1-555-645-324 <i class="icon-clock" style="margin: 0 7px; color: #ec3642;"></i>Monday - Sunday 10:00 - 22:00
